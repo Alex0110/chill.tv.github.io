@@ -1,0 +1,74 @@
+.заголовок{
+	text-align: center;
+  color: white;
+}
+html,
+body {
+  height: 100%;
+  font-family: arial;
+  background: #061420;
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+.content {
+  flex: 1 0 auto;
+}
+footer {
+  flex: 0 0 auto;
+  padding: 50px;
+  color: grey;
+  background-color:#333738;
+}
+.images{
+	padding-top: 10px;
+	margin: 10px;
+	width: 296px;
+	height: 450px;
+	box-sizing: border-box;
+	transition: all .05s;
+}
+.images:hover {
+	filter: brightness(0.6);
+	border: 10px solid #1f3e9e;
+}
+.hellboy.inf{
+	font-size: 20px;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+    display: flex;
+    z-index: 3;
+    height: auto;
+    font-weight: bold;
+    margin: 0 0 20px;
+  padding: 20px 0;
+    justify-content: space-between;
+    width: 100%;
+  position: sticky;
+  top: 0;
+  right: 0;
+  box-shadow: 0 0 10px #000;
+  background: linear-gradient(45deg,red,blue);
+}
+.logo {
+    color: #fff;
+    text-decoration: none;
+  padding: 0 15px;
+}
+.main-menu li {
+  display: inline-block;
+  padding: 0 15px;
+}
+.main-menu a {
+    color: #fff;
+    text-decoration: none;
+}
+.main-menu a:hover {
+  opacity: 0.7;
+}

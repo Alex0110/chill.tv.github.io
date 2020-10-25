@@ -1,0 +1,92 @@
+.opening{
+	color:white;
+	font-size: 25px;
+}
+.first{
+	color:white;
+	text-align: center;
+}
+.doncarleon{
+	float: left;
+	width: 25%;
+	height: 25%;
+	padding: 10px;
+	
+}
+.futer{
+	color:white;
+	font-size: 20px;
+}
+ul{
+	color:white;
+    list-style: inside;
+    font-size:125%;
+
+}
+.film2{
+	color:white;
+	font-size: 20px;
+}
+.шоушенк{
+	float: left;
+	width: 25%;
+	height: 25%;
+	padding: 10px;
+}
+.knight{
+	color:white;
+	font-size: 20px;
+}
+.night {
+	float: left;
+	width: 25%;
+	height: 25%;
+	padding: 10px;
+}
+.shindler{
+	color:white;
+	font-size: 20px;
+}
+.list{
+	float: left;
+	width: 25%;
+	height: 25%;
+	padding: 10px;
+}
+.fiction{
+	color:white;
+	font-size: 20px;
+}
+.pulp{
+	float: left;
+	width: 25%;
+	height: 25%;
+	padding: 10px;
+}
+.closing {
+	color:white;
+	text-align: left;
+	font-size: 10px;
+}
+html{
+	background-color: #FFE4C4;
+	font-color:white;
+	font-family: arial;
+}
+header {
+    display: flex;
+    height: auto;
+    font-weight: bold;
+    margin: 0 0 20px;
+  padding: 20px 0;
+    justify-content: space-between;
+    width: 100%;
+  position: sticky;
+  top: 0;
+  right: 0;
+  box-shadow: 0 0 10px #000;
+  background: linear-gradient(45deg,red,blue);
+}
+h1	{
+	color:white;
+}

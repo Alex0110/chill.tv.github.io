@@ -1,0 +1,80 @@
+header {
+    display: flex;
+    z-index: 3;
+    height: auto;
+    font-weight: bold;
+    margin: 0 0 20px;
+  padding: 20px 0;
+    justify-content: space-between;
+    width: 100%;
+  position: sticky;
+  top: 0;
+  right: 0;
+  box-shadow: 0 0 10px #000;
+  background: linear-gradient(45deg,red,blue);
+}
+
+h1  {
+  color:white;
+}
+.walkingdead{
+  float: left;
+  width: 25%;
+  height: 25%;
+  padding: 10px;
+  
+}
+.walkingdeadinf{
+  color:white;
+  font-size: 20px;
+}
+
+ul{
+  color:white;
+    list-style: inside;
+    font-size:125%;
+  }
+  .gameofthrones{
+  float: left;
+  width: 25%;
+  height: 25%;
+  padding: 10px;
+  
+}
+.gameofthronesinf{
+  color:white;
+  font-size: 20px;
+}
+.theoryofbigboom{
+  float: left;
+  width: 25%;
+  height: 25%;
+  padding: 10px;
+  
+}
+.theoryofbigboominf{
+  color:white;
+  font-size: 20px;
+}
+.deepstate{
+  float: left;
+  width: 25%;
+  height: 25%;
+  padding: 10px;
+  
+}
+.deepstateinf{
+  color:white;
+  font-size: 20px;
+}
+.luter{
+  float: left;
+  width: 25%;
+  height: 25%;
+  padding: 10px;
+  
+}
+.luterinf{
+  color:white;
+  font-size: 20px;
+}
